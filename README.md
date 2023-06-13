@@ -29,15 +29,12 @@ Here are some ideas to get you started:
 <a width="98%" href="https://github.com/gabrieloliveirapimentel/"><img alt="Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieloliveirapimentel&theme=nord_dark" /></a>
 <br/>
 
-<p >
+<p>
     <a href="https://github.com/gabrieloliveirapimentel"><img height="200em" width="49%" alt="Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieloliveirapimentel&theme=nord_dark"/></a>
-    <a href="https://github.com/gabrieloliveirapimentel"><img height="200em" width="49%" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrieloliveirapimentel&theme=nord_dark"/></a>
-  </p>
-  
-  <p >
-    <a href="https://github.com/gabrieloliveirapimentel"><img height="200em" width="49%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrieloliveirapimentel&theme=nord_dark"/></a>
+<a href="https://github.com/gabrieloliveirapimentel"><img height="200em" width="49%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrieloliveirapimentel&theme=nord_dark"/></a>
     <a href="https://github.com/gabrieloliveirapimentel"><img height="200em" width="49%" alt="Gabriel commit by time" src="https://github-profile-summary-cards-1cxn1hxbe-vn7n24fzkq.vercel.app/api/cards/productive-time?username=gabrieloliveirapimentel&theme=nord_dark&utcOffset=-3"/></a>
   </p>
+  
 
 </div>
  
