@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -   📫 Interest in the areas of Mobile Robotics, Mobile Development, and Database
 -   🧑🏻‍💻 Open to work remotely as internship
 
-<p align="center"> <a href="https://github.com/gabrieloliveirapimentel"> <img alt="Gabriel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieloliveirapimentel&hide_border=true&theme=nord_dark&stroke=00" width = "70%" /> </a> </p>
+<p align="center"> <a href="https://github.com/gabrieloliveirapimentel"> <img alt="Gabriel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieloliveirapimentel&hide_border=true&theme=nord&stroke=00" width = "70%" /> </a> </p>
 
 ## 😺 GitHub Stats 📊
 
