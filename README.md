@@ -68,6 +68,6 @@ Here are some ideas to get you started:
 ## 🗣️ Contact 📩
   
  <div> 
-  <a href = "mailto:gabrieloliveirapimentel@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=hotmail&logoColor=blue" target="_blank"></a>
+  <a href = "mailto:gabrieloliveirapimentel@hotmail.com"><img src="https://img.shields.io/badge/outlook-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=gabrieloliveirapimentel" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-oliveira-pimentel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=gabrieloliveirapimentel" target="_blank"></a>  
 </div>
