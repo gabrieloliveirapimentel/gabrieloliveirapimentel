@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p>
     <a href="https://github.com/gabrieloliveirapimentel"><img height="200em" width="49%" alt="Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieloliveirapimentel&theme=nord_dark"/></a>
-    <a href="https://github.com/gabrieloliveirapimentel"><img height="200em" width="49%" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrieloliveirapimentel&theme=solarized_dark"/></a>
+    <a href="https://github.com/gabrieloliveirapimentel"><img height="200em" width="49%" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrieloliveirapimentel&theme=nord_dark"/></a>
     </p >
    
   
