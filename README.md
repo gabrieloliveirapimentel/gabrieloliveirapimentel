@@ -19,24 +19,24 @@ Here are some ideas to get you started:
 -   📫 Interest in the areas of Mobile Robotics, Mobile Development, and Database
 -   🧑🏻‍💻 Open to work remotely as internship
 
-<p align="center"> <a href="https://github.com/gabrieloliveirapimentel"> <img alt="Gabriel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieloliveirapimentel&hide_border=true&theme=tokyonight&stroke=00" width = "70%" /> </a> </p>
+<p align="center"> <a href="https://github.com/gabrieloliveirapimentel"> <img alt="Gabriel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieloliveirapimentel&hide_border=true&theme=nord_dark&stroke=00" width = "70%" /> </a> </p>
 
 ## 😺 GitHub Stats 📊
 
 <div align="center">
 
 
-<a width="98%" href="https://github.com/gabrieloliveirapimentel/"><img alt="Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieloliveirapimentel&theme=tokyonight" /></a>
+<a width="98%" href="https://github.com/gabrieloliveirapimentel/"><img alt="Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieloliveirapimentel&theme=nord_dark" /></a>
 <br/>
 
 <p >
-    <a href="https://github.com/gabrieloliveirapimentel"><img height="200em" width="49%" alt="Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieloliveirapimentel&theme=tokyonight"/></a>
-    <a href="https://github.com/gabrieloliveirapimentel"><img height="200em" width="49%" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrieloliveirapimentel&theme=tokyonight"/></a>
+    <a href="https://github.com/gabrieloliveirapimentel"><img height="200em" width="49%" alt="Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieloliveirapimentel&theme=nord_dark"/></a>
+    <a href="https://github.com/gabrieloliveirapimentel"><img height="200em" width="49%" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrieloliveirapimentel&theme=nord_dark"/></a>
   </p>
   
   <p >
-    <a href="https://github.com/gabrieloliveirapimentel"><img height="200em" width="49%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrieloliveirapimentel&theme=tokyonight"/></a>
-    <a href="https://github.com/gabrieloliveirapimentel"><img height="200em" width="49%" alt="Gabriel commit by time" src="https://github-profile-summary-cards-1cxn1hxbe-vn7n24fzkq.vercel.app/api/cards/productive-time?username=gabrieloliveirapimentel&theme=tokyonight&utcOffset=-3"/></a>
+    <a href="https://github.com/gabrieloliveirapimentel"><img height="200em" width="49%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrieloliveirapimentel&theme=nord_dark"/></a>
+    <a href="https://github.com/gabrieloliveirapimentel"><img height="200em" width="49%" alt="Gabriel commit by time" src="https://github-profile-summary-cards-1cxn1hxbe-vn7n24fzkq.vercel.app/api/cards/productive-time?username=gabrieloliveirapimentel&theme=nord_darkt&utcOffset=-3"/></a>
   </p>
 
 </div>
