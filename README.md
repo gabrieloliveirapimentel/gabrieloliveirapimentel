@@ -1,18 +1,13 @@
 ## 💫 About Me 😄
 
 ### Hi there! I'm Gabriel 👋
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/63811493?v=4" width="200px;" alt=""/>
- <div> 
-  <a href = "mailto:gabrieloliveirapimentel@hotmail.com"><img src="https://img.shields.io/badge/outlook-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=gabrieloliveirapimentel" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-oliveira-pimentel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=gabrieloliveirapimentel" target="_blank"></a>  
-</div>
-
 -   🎓 Student in Control and Automation Engineering at the CEFET-MG, Brazil;
 -   🎓 Master’s student in Electrical and Computer Engineering at the Polytechnic Institute of Bragança, Portugal;
 -   📫 Interest in the areas of Machine Learning, Data Science, Robotics, Automation solutions, and Mobile Development;
 -   🧑🏻‍💻 Open to work remotely or on-site.
 
 <p align="center"> <a href="https://github.com/gabrieloliveirapimentel"> <img alt="Gabriel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieloliveirapimentel&hide_border=true&theme=nord&stroke=00" width = "70%" /> </a> </p>
+
 
 ## 😺 GitHub Stats 📊
 
@@ -35,8 +30,7 @@
   
 
 </div>
- 
- 
+
  ## 💻 Languages & Frameworks 🛠️
   <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
@@ -54,3 +48,12 @@
   </br>
   </br>
 </div>
+
+## 🗣️ Contact 📩
+
+ <div> 
+  <a href = "mailto:gabrieloliveirapimentel@hotmail.com"><img src="https://img.shields.io/badge/outlook-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=gabrieloliveirapimentel" target="_blank"></a>
+    <a href = "mailto:pimentelgabriel.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-oliveira-pimentel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=gabrieloliveirapimentel" target="_blank"></a>  
+</div>
+
