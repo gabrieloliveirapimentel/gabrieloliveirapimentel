@@ -1,10 +1,9 @@
 ## 💫 About Me 😄
 
 ### Hi there! I'm Gabriel 👋
--   🎓 Student in Control and Automation Engineering at the CEFET-MG, Brazil;
--   🎓 Master’s student in Electrical and Computer Engineering at the Polytechnic Institute of Bragança, Portugal;
--   📫 Interest in the areas of Machine Learning, Data Science, Robotics, Automation solutions, and Mobile Development;
--   🧑🏻‍💻 Open to work remotely or on-site.
+-   🎓 Master’s Electrical and Computer Engineering at the Polytechnic Institute of Bragança, Portugal;
+-   🎓 Control and Automation Engineering at the CEFET-MG, Brazil;
+-   📫 Interest in the areas of Web Development, Mobile Development, Machine Learning, Robotics, and Automation solutions;
 
 <p align="center"> <a href="https://github.com/gabrieloliveirapimentel"> <img alt="Gabriel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieloliveirapimentel&hide_border=true&theme=nord&stroke=00" width = "70%" /> </a> </p>
 
@@ -34,14 +33,12 @@
  ## 💻 Languages & Frameworks 🛠️
   <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
     <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
-    <img align="center" alt="Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
     <img align="center" alt="Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg">
   </br>  
