@@ -36,13 +36,13 @@
     <img align="center" alt="Node" height="30" width="40" src="./img/node.svg">
     <img align="center" alt="NestJs" height="30" width="40" src="./img/node-nestjs.svg">
     <img align="center" alt="NextJS" height="30" width="40" src="./img/react-nextjs.svg">
-    <img align="center" alt="NextJS" height="30" width="40" src="./img/javascript.svg">
-    <img align="center" alt="NextJS" height="30" width="40" src="./img/typescript.svg">
+    <img align="center" alt="JS" height="30" width="40" src="./img/javascript.svg">
+    <img align="center" alt="TS" height="30" width="40" src="./img/typescript.svg">
     <img align="center" alt="HTML" height="30" width="40" src="./img/html.svg">
     <img align="center" alt="Python" height="30" width="40" src="./img/python.svg">
     <img align="center" alt="Docker" height="30" width="40" src="./img/docker.svg">
-    <img align="center" alt="Docker" height="30" width="40" src="./img/mysql.svg">
-    <img align="center" alt="Docker" height="30" width="40" src="./img/postgresql.svg">
+    <img align="center" alt="MySQL" height="30" width="40" src="./img/mysql.svg">
+    <img align="center" alt="Postgresql" height="30" width="40" src="./img/postgresql.svg">
   </br>  
   </br>
   </br>
