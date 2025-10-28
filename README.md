@@ -5,8 +5,6 @@
 -   🎓 Control and Automation Engineering at the CEFET-MG, Brazil;
 -   📫 Interest in the areas of Web Development, Mobile Development, Machine Learning, Robotics, and Automation solutions;
 
-<p align="center"> <a href="https://github.com/gabrieloliveirapimentel"> <img alt="Gabriel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieloliveirapimentel&hide_border=true&theme=nord&stroke=00" width = "70%" /> </a> </p>
-
 
 ## 😺 GitHub Stats 📊
 
@@ -32,15 +30,19 @@
 
  ## 💻 Languages & Frameworks 🛠️
   <div style="display: inline_block" align="center"><br>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
-    <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg">
+    <img align="center" alt="Java" height="30" width="40" src="./img/java.svg">
+    <img align="center" alt="Spring" height="30" width="40" src="./img/java-spring.svg">
+    <img align="center" alt="React" height="30" width="40" src="./img/react.svg">
+    <img align="center" alt="Node" height="30" width="40" src="./img/node.svg">
+    <img align="center" alt="NestJs" height="30" width="40" src="./img/node-nestjs.svg">
+    <img align="center" alt="NextJS" height="30" width="40" src="./img/react-nextjs.svg">
+    <img align="center" alt="NextJS" height="30" width="40" src="./img/javascript.svg">
+    <img align="center" alt="NextJS" height="30" width="40" src="./img/typescript.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="./img/html.svg">
+    <img align="center" alt="Python" height="30" width="40" src="./img/python.svg">
+    <img align="center" alt="Docker" height="30" width="40" src="./img/docker.svg">
+    <img align="center" alt="Docker" height="30" width="40" src="./img/mysql.svg">
+    <img align="center" alt="Docker" height="30" width="40" src="./img/postgresql.svg">
   </br>  
   </br>
   </br>
@@ -50,7 +52,6 @@
 
  <div> 
   <a href = "mailto:gabrieloliveirapimentel@hotmail.com"><img src="https://img.shields.io/badge/outlook-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=gabrieloliveirapimentel" target="_blank"></a>
-    <a href = "mailto:pimentelgabriel.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-oliveira-pimentel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=gabrieloliveirapimentel" target="_blank"></a>  
 </div>
 
